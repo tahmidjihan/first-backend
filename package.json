@@ -1,0 +1,19 @@
+{
+  "name": "first-backend",
+  "version": "1.0.0",
+  "description": "my first backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "backend",
+    "chai"
+  ],
+  "author": "tahmid-jihan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
